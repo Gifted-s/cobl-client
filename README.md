@@ -1,4 +1,4 @@
-#COBL CLIENT
+# COBL CLIENT
 
 
 This project was build with the react framework and nodejs
@@ -48,6 +48,6 @@ Terms
 
 ### In the future version of this software we are going to include
 
-- [] Advertising your product on big stores
-- [] Helping you to store your products
-- [] Sell your product for you
+- [ ] Advertising your product on big stores
+- [ ] Helping you to store your products
+- [ ] Sell your product for you
